@@ -1,0 +1,27 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpris10/text-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edpris10/text-editor/issues"
+  },
+  "homepage": "https://github.com/edpris10/text-editor#readme",
+  "dependencies": {
+    "babel-loader": "^9.1.0",
+    "concurrently": "^7.6.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.2"
+  }
+}
